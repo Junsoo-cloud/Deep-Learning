@@ -1,1 +1,1 @@
-# wsl_github
+# Junsoo's Deep Learning Studyroom!
